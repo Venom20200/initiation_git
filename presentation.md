@@ -1,5 +1,5 @@
-Github = partie collaborative et Git est le langage 
-Git logiciel de contrôle de version
+Github = partie collaborative et Git est le langage  
+Git logiciel de contrôle de version  
 Github est un des plus grands stockage de travaux collaboratifs dans le monde
     (Réseau social pour le travail très utilisé par les dév)
     On peut y créer un profil et aussi y déposer des projets 

@@ -17,27 +17,29 @@ Github est un des plus grands stockage de travaux collaboratifs dans le monde
             Branch = L'espace personnel sur lequel on travaille  
 
 
-            git init = Ligne de commande : initialise un nouveau dépot Git ou (répository)
-            
-            git config = Permet de configurer, permet d'entrer ses identifiants Gitgub
+Ligne de commande : git init = Ligne de commande : initialise un nouveau dépot Git ou (répository)
 
-            git help = Affiche les 21 commandes Git à disposition (On peut l'utilisez avec git help init)
+                   git config = Permet de configurer, permet d'entrer ses identifiants Gitgub
 
-            git satus = Indique sur quelle branch on est et permet aussi de savoir si les modifications ont été sauvegardé 
+                   git help = Affiche les 21 commandes Git à disposition (On peut l'utilisez avec git help init)
 
-            git add = On l'utilise avant le git commit : Permet de faire un point sur ce qui a été rajouté, et ajoute les modif' qui seront commit par la suite
+                   git satus = Indique sur quelle branch on est et permet aussi de savoir si les modifications ont été sauvegardé 
 
-            git commit = C'est la sauvegarde en local de nos modifications (git commit -m "bla bla bla j'ai modifié ça à cet endroit blabla")
+                   git add = On l'utilise avant le git commit : Permet de faire un point sur ce qui a été rajouté, et ajoute les modif' qui seront commit par la suite
 
-            gi branch = Utilisé tout seul seul pour créer une branche, pourtravailler sur une partie du projet
+                   git commit = C'est la sauvegarde en local de nos modifications (git commit -m "bla bla bla j'ai modifié ça à cet endroit blabla")
 
-            git checkout = Permet de naviguer entre les branchs
+                   gi branch = Utilisé tout seul seul pour créer une branche, pourtravailler sur une partie du projet
 
-            git merge = Permet de fusionner notre branch avec la branch principale du projet (git merge sonia = fusionne la branch de sonia avec la branch principale)
+                   git checkout = Permet de naviguer entre les branchs
 
-            git push = Permet d'envoyer nos dernières modifications en ligne (récupérable depuis Github)
+                   git merge = Permet de fusionner notre branch avec la branch principale du projet (git merge sonia = fusionne la branch de sonia avec la branch principale)
 
-            git pull = Permet de récupérer du travail en ligne vers le local
+                   git push = Permet d'envoyer nos dernières modifications en ligne (récupérable depuis Github)
+
+                   git pull = Permet de récupérer du travail en ligne vers le local
+
+                   git clone = Permet de dupliquer un répértoir ou un projet depuis GitHub
 
             
 
